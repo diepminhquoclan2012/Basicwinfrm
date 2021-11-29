@@ -1,0 +1,30 @@
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\bin\Debug\BasicWinform.exe.config
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\bin\Debug\BasicWinform.exe
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\bin\Debug\BasicWinform.pdb
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.csproj.AssemblyReference.cache
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.frmMain.resources
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.Properties.Resources.resources
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.csproj.GenerateResource.cache
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.csproj.CoreCompileInputs.cache
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.exe
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.pdb
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.frmUse.resources
+C:\Users\vovan\OneDrive\Máy tính\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.frmManageUser.resources
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.csproj.AssemblyReference.cache
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.frmMain.resources
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.frmManageUser.resources
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.frmUse.resources
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.Properties.Resources.resources
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.csproj.GenerateResource.cache
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.csproj.CoreCompileInputs.cache
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.exe
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.pdb
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\bin\Debug\BasicWinform.exe.config
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\bin\Debug\BasicWinform.exe
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\bin\Debug\BasicWinform.pdb
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.frmLopHoc.resources
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.frmTimer.resources
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.happy_new_year.resources
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.TreeView.resources
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\Interop.WMPLib.dll
+C:\Users\vovan\OneDrive\Desktop\LapTrinhC#\BasicWinform\BasicWinform\obj\Debug\BasicWinform.csproj.ResolveComReference.cache
